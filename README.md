@@ -1,7 +1,7 @@
 # Hi，我是你们的都市看客兼吟游诗人暗梦
 em......
 
-https://img.shields.io/badge/-GNU/Linux-007ACC?style=flat&amp;logo=GNU/Linux&amp;logoColor=white
+<img alt="Website badge" src="https://img.shields.io/badge/MyBlog-Online-brightgreen">
 
 ##LuminousDream的由来
 *A:[代填写答案]*
