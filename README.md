@@ -1,5 +1,6 @@
 # Hi，我是你们的都市看客兼吟游诗人，暗梦。
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+![](https://img.shields.io/badge/-Nintendo%203DS-e60012?style=flat-square&logo=nintendo%203ds&logoColor=ffffff)
 
 - :待写讲述I
 - :待写讲述II
