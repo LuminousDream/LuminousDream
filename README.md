@@ -4,11 +4,10 @@
 
 - 我的游戏平台
 
-    ![](https://img.shields.io/badge/-Sony%20PlayStation%20Portable-e60012?style=flat-square&logo=playstation&logoColor=ffffff)
+    ![](https://img.shields.io/badge/-Sony%20PlayStation%20Portable?logo=playstation&logoColor=blue)
     ![](https://img.shields.io/badge/-Nintendo%203DS-e60012?style=flat-square&logo=nintendo%203ds&logoColor=ffffff)
 
-- :待写讲述III
-- :待写讲述IV
+- :
 - :待写讲述V
 
 
