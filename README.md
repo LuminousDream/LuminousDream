@@ -1,9 +1,13 @@
 # Hi，我是你们的都市看客兼吟游诗人，暗梦。
 
 
-- 我常用的IDE环境
+- 我常用的编程语言 & IDE环境
 
-    ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007396?style=flat-square&logo=visualstudio&logoColor=ffffff)
+    ![](https://img.shields.io/badge/-Microsoft%20C%20Sharp-007396?style=flat-square&logo=csharp&logoColor=ffffff)
+    ![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)
+    ![](https://img.shields.io/badge/-PHP-007396?style=flat-square&logo=php&logoColor=ffffff)
+
+    ![](https://img.shields.io/badge/-Visual%20Studio%202013-007396?style=flat-square&logo=visualstudio&logoColor=ffffff)
 
 - 我的游戏平台
 
