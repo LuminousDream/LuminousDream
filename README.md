@@ -1,6 +1,9 @@
 # Hi，我是你们的都市看客兼吟游诗人，暗梦。
 
 
+![info](https://github-readme-stats.vercel.app/api?username=LuminousDream&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+
 - 我常用的编程语言 & IDE环境
 
     ![](https://img.shields.io/badge/-C%23-007396?style=flat-square&logo=csharp&logoColor=ffffff)
