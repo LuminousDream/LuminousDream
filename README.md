@@ -4,7 +4,6 @@
 - 我常用的编程语言 & IDE环境
 
     ![](https://img.shields.io/badge/-C%23-007396?style=flat-square&logo=csharp&logoColor=ffffff)
-    ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007396?style=flat-square&logo=visualstudio&logoColor=ffffff)
     ![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)
     ![](https://img.shields.io/badge/-PHP-007396?style=flat-square&logo=php&logoColor=ffffff)
 
