@@ -1,17 +1,14 @@
 # Hi，我是你们的都市看客兼吟游诗人，暗梦。
 
 
+- 我常用的IDE环境
+
+    ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007396?style=flat-square&logo=visualstudio&logoColor=ffffff)
 
 - 我的游戏平台
 
     ![](https://img.shields.io/badge/-Sony%20PlayStation%20Portable-e60011?logo=playstation&logoColor=ffffff)
     ![](https://img.shields.io/badge/-Nintendo%203DS-e60011?logo=nintendo%203ds&logoColor=ffffff)
-
-- :
-- :待写讲述V
-
-
-![](https://github-readme-stats.vercel.app/api?username=LuminousDream)
 
 
 我曾经用过的头像
