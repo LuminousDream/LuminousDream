@@ -6,8 +6,7 @@
 - :待写讲述V
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LuminousDream&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
+![](https://github-readme-stats.vercel.app/api?username=LuminousDream)
 
 
 我曾经用过的头像
