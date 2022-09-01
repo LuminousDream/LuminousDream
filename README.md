@@ -1,6 +1,9 @@
 # Hi，我是你们的都市看客兼吟游诗人暗梦
-em......
 
+我曾经用过的头像
+<img src="https://darkace.xyz/icon_old.jpg"><img src="https://darkace.xyz/github_icon_old.jpg">
+
+em......
 
 ## Q:LuminousDream的由来
 *A:LuminousDream，那也是我以前用过的一个ID，译为夜光梦，意为*
