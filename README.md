@@ -1,7 +1,13 @@
 # Hi，我是你们的都市看客兼吟游诗人，暗梦。
+- :待写讲述I
+- :待写讲述II
+- :待写讲述III
+- :待写讲述IV
+- :待写讲述V
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LuminousDream&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 
 我曾经用过的头像
