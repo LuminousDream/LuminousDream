@@ -1,8 +1,10 @@
 # Hi，我是你们的都市看客兼吟游诗人，暗梦。
-[![](https://img.shields.io/badge/我的电脑-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)]
+
+
+
+- :我的游戏平台
 ![](https://img.shields.io/badge/-Nintendo%203DS-e60012?style=flat-square&logo=nintendo%203ds&logoColor=ffffff)
 
-- :待写讲述I
 - :待写讲述II
 - :待写讲述III
 - :待写讲述IV
